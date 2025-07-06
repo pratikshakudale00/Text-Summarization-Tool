@@ -54,4 +54,6 @@ NLTK Library
 YouTube (for understanding NLP concepts and code tutorials)
 
 ChatGPT (for clarifying doubts, explaining errors, and code debugging)
-##
+
+#OUTPUT
+<img width="1904" height="527" alt="Image" src="https://github.com/user-attachments/assets/40f7aa2e-290d-436b-8095-d5ee15eba452" />
