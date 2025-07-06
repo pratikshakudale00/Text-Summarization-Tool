@@ -16,7 +16,7 @@
 
 Being a beginner in the field of NLP, I relied on online learning resources like YouTube tutorials and interactive help from ChatGPT to understand the concepts and logic needed to complete the task successfully. I executed the project using IDLE (Python’s built-in development environment), which helped me stay focused on the core logic and functionality.
 
-
+---
 🧠 Key Learnings and Implementation:
 
 1. Understanding Text Summarization:
