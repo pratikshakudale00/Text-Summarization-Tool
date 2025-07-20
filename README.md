@@ -10,7 +10,7 @@
 
 *DURATION*:4 WEEK
 
-*MENTOR*:VAISHALI
+*MENTOR*:NEELA SANTOSH
 
 ##As part of my internship at Codetech Solutions, I was assigned my first task to build a Text Summarization Tool using Python. The objective was to create a program that can automatically summarize a paragraph or article and generate a short, meaningful summary. This task helped me explore one of the most important areas of Natural Language Processing (NLP) and allowed me to gain practical experience in using the NLTK (Natural Language Toolkit) library.
 
